@@ -16,4 +16,4 @@ Author page:<br />
 <a href = "https://github.com/tnt2ultra">https://github.com/tnt2ultra</a>
 <br /><br />
 Screenshot:<br />
-<img src="screen1.png" />
+<img src="https://tnt2ultra.github.io/HTML5TelChart/docs/screen1.png" />
