@@ -435,7 +435,7 @@ function resizeAll() {
             - (texts[0].y + texts[0].size + 5);
     }
     
-    for(var i = 0; i < countdown; i++) {
+    for(var i = 0; i < MAXDOWN; i++) {
         boxdown[i].x = vertexts[i].x;
         boxdown[i].y = box.y + box.height + fontsize;
         boxdown[i].width = boxdown[i].height = fontsize * 1.3;
@@ -568,7 +568,7 @@ function toggleday() {
     for(var i = 0; i < 4; i++) 
         borders[i].color = colors[mode].border;
     document.body.style.background = colors[mode].bg;    
-    for(var i = 0; i < countdown; i++) {
+    for(var i = 0; i < MAXDOWN; i++) {
         textdown[i].color = colors[mode].title;        
         if (checkdown[i])
             boxdown[i].color = myObj[curgraph].colors["y" + (i + 0)];
