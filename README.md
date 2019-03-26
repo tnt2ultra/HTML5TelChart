@@ -7,10 +7,10 @@ This code in work:<br />
 <a href = "https://tnt2ultra.github.io/HTML5TelChart/docs/">https://tnt2ultra.github.io/HTML5TelChart/docs/</a>
 <br /><br />
 Project page:<br />
-https://tnt2ultra.github.io/HTML5TelChart/
+<a href = "https://tnt2ultra.github.io/HTML5TelChart/">https://tnt2ultra.github.io/HTML5TelChart/</a>
 <br /><br />
-Repositary:
-https://github.com/tnt2ultra/HTML5TelChart
+Repositary:<br />
+<a href = "https://github.com/tnt2ultra/HTML5TelChart">https://github.com/tnt2ultra/HTML5TelChart</a>
 <br /><br />
 Author page:<br />
-https://github.com/tnt2ultra
+<a href = "https://github.com/tnt2ultra">https://github.com/tnt2ultra</a>
